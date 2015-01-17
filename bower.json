@@ -1,0 +1,8 @@
+{
+	"name": "nette.ajax.snippets.multiple.js",
+	"version": "1.0.0",
+	"main": "nette.ajax.snippets.multiple.js",
+	"dependencies": {
+		"nette.ajax.js": "~1.2"
+	}
+}
